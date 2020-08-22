@@ -1,5 +1,7 @@
 # Kaggle competition - [House Prices: Advanced Regression Techniques](https://www.kaggle.com/c/house-prices-advanced-regression-techniques)
 
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/PierreExeter/kaggle-house-prices/master)
+
 This repository explores various machine learning strategies for the Kaggle competition - "House Prices: Advanced Regression Techniques".
 
 
